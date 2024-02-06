@@ -1,5 +1,5 @@
 {
-  "name": "@vital-ui/docs",
+  "name": "@vitals-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,10 +28,10 @@
   },
   "dependencies": {
     "@storybook/addon-a11y": "^6.5.16",
-    "@vital-ui/eslint-config": "*",
-    "@vital-ui/react": "*",
-    "@vital-ui/tokens": "*",
-    "@vital-ui/ts-config": "*",
+    "@vitals-ui/eslint-config": "*",
+    "@vitals-ui/react": "*",
+    "@vitals-ui/tokens": "*",
+    "@vitals-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",

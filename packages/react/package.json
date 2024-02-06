@@ -1,5 +1,5 @@
 {
-  "name": "@vital-ui/react",
+  "name": "@vitals-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -16,9 +16,9 @@
   "devDependencies": {
     "@types/react": "^18.2.46",
     "@types/react-dom": "^18.2.18",
-    "@vital-ui/eslint-config": "*",
-    "@vital-ui/tokens": "*",
-    "@vital-ui/ts-config": "*",
+    "@vitals-ui/eslint-config": "*",
+    "@vitals-ui/tokens": "*",
+    "@vitals-ui/ts-config": "*",
     "react": "^18.2.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"

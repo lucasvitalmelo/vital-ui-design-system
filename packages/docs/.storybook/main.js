@@ -18,7 +18,7 @@ module.exports = {
   },
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/vital-ui-design-system/'
+      config.base = '/vitals-ui-design-system/'
     }
 
     return config

@@ -1,4 +1,4 @@
 {
-  "extends": "@vital-ui/ts-config/base.json",
+  "extends": "@vitals-ui/ts-config/base.json",
   "include": ["src"]
 }

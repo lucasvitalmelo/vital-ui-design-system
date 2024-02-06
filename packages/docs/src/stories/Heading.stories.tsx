@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Heading, HeadingProps } from '@vital-ui/react'
+import { Heading, HeadingProps } from '@vitals-ui/react'
 
 export default {
   title: 'Typografic/Heading',

@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Text, TextProps } from '@vital-ui/react'
+import { Text, TextProps } from '@vitals-ui/react'
 
 export default {
   title: 'Typografic/Text',

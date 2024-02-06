@@ -8,7 +8,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@vital-ui/tokens'
+} from '@vitals-ui/tokens'
 
 export const {
   styled,

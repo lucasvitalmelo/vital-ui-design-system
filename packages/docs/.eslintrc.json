@@ -1,3 +1,3 @@
 {
-  "extends": "@vital-ui/eslint-config"
+  "extends": "@vitals-ui/eslint-config"
 }
