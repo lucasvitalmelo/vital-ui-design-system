@@ -1,0 +1,2 @@
+import{A as t}from"./index.0fd1f823.js";import"./index.a888ebdf.js";import"./iframe.244f1a8c.js";import"./index.67c99a02.js";import"./jsx-runtime.4eebda40.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/lucasvitalmelo.png",alt:"Lucas Vital"},argTypes:{src:{control:{type:"text"}}}},l={},p={args:{src:void 0}},m=["Primary","WithFallback"];export{l as Primary,p as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.43a21778.js.map
